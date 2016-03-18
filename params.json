@@ -1,0 +1,6 @@
+{
+  "name": "Bigmud-small-warehouse",
+  "tagline": "go ahead！",
+  "body": "# hctf week3\r\n科目五:0x04中的0x05文件用winhex打开，看到里面藏着东西，将其改为压缩包，打开是一张图片，请教了一下是LSB算法，在RGB通道0打勾，在头部发现了一串字符，base64解码之后是乱码，然后用了zlib压缩（全是请教得到的!!!),然后顺着就得到flag。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
